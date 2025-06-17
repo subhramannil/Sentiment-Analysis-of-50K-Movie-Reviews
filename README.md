@@ -42,10 +42,6 @@ IMDB-Sentiment-Analysis/
 ├── requirements.txt           # Dependencies
 ├── README.md                 # This file
 
-# About Me
-
-I’m Subhranil Das, a 4th-year Computer Science student at IEM, Kolkata, passionate about data science and machine learning. This project showcases my skills in NLP, deep learning, and visualization, developed for Fellowship.AI to demonstrate my readiness to solve real-world problems.
-
 # Acknowledgments
 Kaggle for the IMDB dataset.
 Fellowship.AI for the opportunity to showcase my skills.
