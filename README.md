@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, developed by Subhranil Das, a 4th-year Computer Science student at the Institute of Engineering & Management (IEM), Kolkata, performs sentiment analysis on the IMDB Dataset of 50K Movie Reviews. Using a bidirectional LSTM neural network, the model classifies reviews as positive or negative, achieving a test accuracy of 92%. Key features include text preprocessing with WordNetLemmatizer, word cloud visualizations, and an interactive tool for user-input predictions.
+This project performs sentiment analysis on the IMDB Dataset of 50K Movie Reviews. Using a bidirectional LSTM neural network, the model classifies reviews as positive or negative, achieving a test accuracy of 92%. Key features include text preprocessing with WordNetLemmatizer, word cloud visualizations, and an interactive tool for user-input predictions.
 
 
 ## Features
